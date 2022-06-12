@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KristofferRottingen. I am a 21 year old, full-time student at Noroff University. I`m studying Frontend Development.
+- 👋 Hi, I’m @KristofferRottingen. I am a 21 year old, full-time student at Noroff University. I`m currently a Frontend Developer at Elements Productions AS.
 - 👀 Skills i have:
 - HTML 
 - CSS 
