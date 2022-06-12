@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @KristofferRottingen. I am a 21 year old, full-time student at Noroff University. I`m studying Frontend Development.
+- 👀 Skills i have:
+- HTML 
+- CSS 
+- SASS 
+- JavaScript 
+- React JS 
+- Magento 
+- Wordpress 
+- Photoshop 
+- SSH basics 
+- UI/UX design
